@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kallingra
+- 👋 Hi, I’m @Allingra
 - 👀 I’m interested in IT System Administration
 - 🌱 I’m currently learning **Python Scripting** and **Cloud Server Administration**
 
